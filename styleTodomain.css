@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+}
+
+.container {
+    display: flex ;
+    gap: 20px;
+    align-items: stretch;
+    min-height: 100vh;
+}
+
+.principal {
+    flex: 9;
+    padding: 20px;
+}
+
+.barra-lateral {
+    flex: 1;
+    padding: 20px;
+
+    border-right: 1px solid black;
+
+    margin-left: 5px;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.enviar_tarefa {
+    border: 1px solid black;
+}
