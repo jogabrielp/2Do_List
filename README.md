@@ -6,3 +6,5 @@ Funcionalidades:
 - Adição e remoção de tarefas com níveis de prioridade.
 - IA integrada para auxiliar no planejamento.
 - Calendário para melhor visualização.
+
+Este projeto visa evitar atrasos de atividades com a IA por causa de maus planejamentos.
