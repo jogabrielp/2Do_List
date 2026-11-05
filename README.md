@@ -1,3 +1,8 @@
 # 2Do_List
 
-O site em desenvolvimento 2Do possui o objetivo usar IA para fazer relatórios do que é necessário focar, evitando possíveis atrasos quando possui grande quantidade de tarefas pendentes.
+O site em *desenvolvimento* 2Do é um gerenciador de tarefas com integração da IA.
+
+Funcionalidades:
+- Adição e remoção de tarefas com níveis de prioridade.
+- IA integrada para auxiliar no planejamento.
+- Calendário para melhor visualização.
